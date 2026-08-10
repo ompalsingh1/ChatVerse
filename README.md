@@ -287,7 +287,6 @@ The application is designed to work across:
 
 Possible future features include:
 
-* 🔒 JWT authentication
 * 👥 Online/offline user status
 * ✍️ Typing indicators
 * 🟢 Active user list
